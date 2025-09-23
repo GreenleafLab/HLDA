@@ -1,1 +1,3 @@
-# HLDA
+# Human Lung Development Atlas
+Analysis code for the single cell multiomic atlas (RNA+ATAC) of human lung development. 
+More details coming soon...
